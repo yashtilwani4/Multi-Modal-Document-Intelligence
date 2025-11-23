@@ -65,7 +65,6 @@ Complete, modular implementation with:
 - Limitations & future work
 
 ### ✅ 4. Video Demonstration
-**Script**: `VIDEO_DEMO_SCRIPT.md` (3-5 minutes)
 
 Complete recording guide with:
 - Demo flow
@@ -154,7 +153,6 @@ python evaluation.py          # View metrics
 | `DEPLOYMENT_GUIDE.md` | Production setup |
 | `ASSIGNMENT_SUMMARY.md` | Complete overview |
 | `REVIEWER_GUIDE.md` | Evaluation guide |
-| `VIDEO_DEMO_SCRIPT.md` | Demo recording guide |
 
 ## 🧪 Testing
 
