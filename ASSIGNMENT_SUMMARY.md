@@ -50,20 +50,6 @@ This submission presents a complete Multi-Modal Retrieval-Augmented Generation (
 - Limitations and future work
 - Conclusion with production readiness assessment
 
-### ✅ 4. Video Demonstration
-**Status: Script Ready**
-
-**File**: `VIDEO_DEMO_SCRIPT.md`
-
-**Structure** (3-5 minutes):
-1. Introduction (30s)
-2. System overview (30s)
-3. Document processing demo (1min)
-4. Interactive QA interface (2min)
-5. Technical highlights (1min)
-6. Conclusion (30s)
-
-**Recording Instructions**: Included with tips for screen recording, editing, and key messages
 
 ## Expected Features - Implementation Status
 
