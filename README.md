@@ -177,17 +177,11 @@ Reduce batch size in `create_embeddings.py` or use a smaller embedding model.
 - Reduce number of retrieved chunks (k parameter)
 - Use a smaller LLM model
 
-## 📝 License
-
-This project is for educational and evaluation purposes.
-
-## 🤝 Contributing
-
-This is an assignment submission. For questions or improvements, please contact the author.
-
 ## 📧 Contact
 
-For questions about this implementation, please refer to the technical report or video demonstration.
+## Name : Yash Tilwani
+## Email : yashtilwani4@gmail.com
+## Contact : +91 9039424683
 
 ---
 
